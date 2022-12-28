@@ -1,5 +1,4 @@
 {
-
   "database": {
     "rules": "database.rules.json"
   },
@@ -17,11 +16,20 @@
         "npm --prefix \"$RESOURCE_DIR\" run lint",
         "npm --prefix \"$RESOURCE_DIR\" run build"
       ]
+    },
+    {
+      "source": "backendap",
+      "codebase": "backendap",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ]
     }
   ],
   "hosting": {
-        "site": "proyectohm",
-    
+    "site": "proyectohm",
     "public": "public",
     "ignore": [
       "firebase.json",
