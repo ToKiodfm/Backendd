@@ -43,3 +43,4 @@ com\portfolio\HM\Security\jwt\JwtEntryPoint.class
 com\portfolio\HM\Security\Controller\AuthController.class
 com\portfolio\HM\repository\RepExperiencia.class
 com\portfolio\HM\Dto\dtoPersona.class
+com\portfolio\HM\WebConfig.class
