@@ -6,7 +6,7 @@ package com.portfolio.HM.controller;
 
 
 import com.portfolio.HM.Dto.dtoHys;
-import com.portfolio.HM.Entity.hys;
+import com.portfolio.HM.entity.hys;
 import com.portfolio.HM.Security.Controller.Mensaje;
 import com.portfolio.HM.service.Shys;
 import java.util.List;
