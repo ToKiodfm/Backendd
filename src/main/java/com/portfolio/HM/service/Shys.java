@@ -4,7 +4,7 @@
  */
 package com.portfolio.HM.service;
     
-import com.portfolio.HM.Entity.hys;
+import com.portfolio.HM.entity.hys;
 import com.portfolio.HM.repository.Rhys;
 import java.util.List;
 import java.util.Optional;
