@@ -22,7 +22,7 @@ FileInputStream serviceAccount =
 
 FirebaseOptions options = new FirebaseOptions.Builder()
   .setCredentials(GoogleCredentials.fromStream(serviceAccount))
-  .setDatabaseUrl("https://backendap-d612d-default-rtdb.firebaseio.com")
+  .setDatabaseUrl("http://bwa681raexbhnzjkptzm-mysql.services.clever-cloud.com")
   .build();
 
 FirebaseApp.initializeApp(options);
