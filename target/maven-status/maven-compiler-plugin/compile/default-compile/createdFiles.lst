@@ -12,7 +12,6 @@ com\portfolio\HM\entity\Persona.class
 com\portfolio\HM\entity\hys.class
 com\portfolio\HM\Security\Entity\Rol.class
 com\portfolio\HM\entity\Educacion.class
-firebase\conexionfirebase.class
 com\portfolio\HM\Security\Entity\UsuarioPrincipal.class
 com\portfolio\HM\repository\Rhys.class
 com\portfolio\HM\Security\Dto\NuevoUsuario.class
