@@ -18,8 +18,8 @@
       ]
     },
     {
-      "source": "backendap",
-      "codebase": "backendap",
+      "source": "backendAPHM",
+      "codebase": "backendAPHM",
       "ignore": [
         "node_modules",
         ".git",
